@@ -6,7 +6,8 @@ This command-line application will prompt the user for basic information about a
 ```
 node index.js
 ```
-
+Video Demo:
+https://drive.google.com/file/d/1ueDhb5LMUOoAtJdXZ3NMfWoX5o-vrZka/view
 ## User Story
 
 ```

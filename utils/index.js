@@ -85,6 +85,7 @@ const readmeText = (answers) => {
     return `
 # ${answers.title}     ${selectedLicense(answers)}
 
+${answers.description}
     
 ## Table of Contents
     
